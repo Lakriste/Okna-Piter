@@ -88,7 +88,8 @@ function closeOnClick(){
 
 
 
- if (document.getElementById('square')) {
+ 
+if (document.getElementById('square')) {
     let square = document.getElementById('square');
   }
   if (document.getElementById('floor')) {
@@ -123,11 +124,6 @@ function closeOnClick(){
       document.getElementById('totalCost').innerHTML = makeMoney(totalCost);;
   
   }
-  
-  
-  
-  
-  
   
   
   
